@@ -1,1 +1,1 @@
-# Swift-Extensions
+Collection of useful swift extensions
