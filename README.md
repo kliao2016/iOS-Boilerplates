@@ -1,1 +1,1 @@
-Collection of useful swift extensions
+Collection of useful swift extensions and protocols
